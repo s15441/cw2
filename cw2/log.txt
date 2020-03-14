@@ -1,104 +1,104 @@
-03/14/2020 15:50:32 Record duplicated >> Paweł Nowak1 459 1@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 4 sem
-03/14/2020 15:50:32 Record duplicated >> Paweł Nowak1 459 1@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka doktoranckie
-03/14/2020 15:50:32 Record duplicated >> Justyna Kowalski30 4749 30@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Michał Nowak31 4432 31@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Invalid data format >> Zbigniew,Kowalski35,Sztuka Nowych Mediów dzienne,,4450,2000-02-12,35@pjwstk.edu.pl,Alina,Adam
-03/14/2020 15:50:32 Invalid data format >> Karolina,Nowak36,Sztuka Nowych Mediów dzienne,,4455,2000-02-12,36@pjwstk.edu.pl,Alina,Adam
-03/14/2020 15:50:32 Record duplicated >> Joanna Brzęczyszczykiewicz37 4799 37@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Irena Maciejewski38 4626 38@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne
-03/14/2020 15:50:32 Record duplicated >> Kacper Kowalski40 4396 40@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Paweł Nowak41 4902 41@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne
-03/14/2020 15:50:32 Invalid data format >> Aleksandra,,Sztuka Nowych Mediów dzienne,Dzienne,4434,2000-02-12,42@pjwstk.edu.pl,Alina,Adam
-03/14/2020 15:50:32 Record duplicated >> Aleksandra Brzęczyszczykiewicz42 4434 42@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne 6 sem.
-03/14/2020 15:50:32 Record duplicated >> Jan Nowak46 4842 46@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne 6 sem.
-03/14/2020 15:50:32 Record duplicated >> Jakub Jankowski49 4789 49@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne
-03/14/2020 15:50:32 Record duplicated >> Sabina Brzęczyszczykiewicz52 4513 52@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Jan Nowak56 4649 56@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Jakub Brzęczyszczykiewicz57 4755 57@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Karolina Jankowski64 4423 64@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Magdalena Nowak66 4629 66@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Paweł Jankowski69 4478 69@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Kamil Nowak71 4741 71@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Sandra Brzęczyszczykiewicz77 4800 77@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Małgorzata Maciejewski78 4429 78@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Klaudia Jankowski84 4849 84@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
-03/14/2020 15:50:32 Record duplicated >> Tomasz Kowalski95 3374 95@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów dzienne
-03/14/2020 15:50:32 Invalid data format >> Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
-03/14/2020 15:50:32 Invalid data format >> Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
-03/14/2020 15:50:32 Record duplicated >> Paweł Brzęczyszczykiewicz252 4412 252@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Kamil Jankowski254 4836 254@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Michał Brzęczyszczykiewicz257 4454 257@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Patryk Maciejewski258 4443 258@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
-03/14/2020 15:50:32 Record duplicated >> Michał Kowalski260 4579 260@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Zuzanna Jankowski264 4413 264@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
-03/14/2020 15:50:32 Record duplicated >> Wojciech Nowak266 4554 266@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Jakub Kowalski270 4711 270@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
-03/14/2020 15:50:32 Record duplicated >> Jakub Kowalski270 4711 270@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Aleksandra Brzęczyszczykiewicz272 4549 272@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
-03/14/2020 15:50:32 Record duplicated >> Aleksandra Brzęczyszczykiewicz272 4549 272@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Piotr Maciejewski273 4618 273@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Adrian Jankowski274 4530 274@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Andrzej Kowalski275 4607 275@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Wojciech Nowak276 4459 276@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Agata Nowak281 4589 281@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Agata Nowak281 4589 281@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
-03/14/2020 15:50:32 Record duplicated >> Piotr Maciejewski283 4556 283@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka magisterskie uzupełniające zaoczne
-03/14/2020 15:50:32 Record duplicated >> Grzegorz Jankowski284 4504 284@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Sebastian Kowalski285 4505 285@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Filip Nowak286 4105 286@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Filip Nowak286 4105 286@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka jednolite magisterskie
-03/14/2020 15:50:32 Record duplicated >> Artur Maciejewski288 4498 288@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Piotr Jankowski289 4471 289@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Piotr Jankowski289 4471 289@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
-03/14/2020 15:50:32 Record duplicated >> Tomasz Jankowski294 4724 294@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Michał Nowak296 4769 296@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Jakub Maciejewski298 4733 298@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
-03/14/2020 15:50:32 Record duplicated >> Kasper Jankowski299 4584 299@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Krzysztof Kowalski300 4514 300@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka magisterskie uzupełniające zaoczne
-03/14/2020 15:50:32 Record duplicated >> Katarzyna Maciejewski303 4935 303@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Piotr Kowalski305 4456 305@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Jan Nowak306 4107 306@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
-03/14/2020 15:50:32 Record duplicated >> Jan Nowak306 4107 306@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka jednolite magisterskie
-03/14/2020 15:50:32 Record duplicated >> Jan Nowak306 4107 306@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka jednolite magisterskie po angielsku
-03/14/2020 15:50:32 Record duplicated >> Kacper Maciejewski308 4817 308@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Lech Kowalski310 4387 310@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
-03/14/2020 15:50:32 Record duplicated >> Błażej Nowak311 4509 311@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka magisterskie uzupełniające zaoczne
-03/14/2020 15:50:32 Record duplicated >> Paweł Maciejewski313 4481 313@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Wojciech Jankowski314 4512 314@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Maciej Kowalski315 4782 315@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka Społeczna
-03/14/2020 15:50:32 Record duplicated >> Michał Kowalski320 4627 320@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
-03/14/2020 15:50:32 Record duplicated >> Krzysztof Nowak321 4830 321@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Mariusz Maciejewski323 4447 323@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Bartosz Jankowski324 4580 324@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Piotr Kowalski325 4284 325@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne
-03/14/2020 15:50:32 Record duplicated >> Michał Nowak326 4440 326@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Paweł Jankowski329 4796 329@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Nakul Brzęczyszczykiewicz332 4942 332@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Tomoto Maciejewski333 4614 333@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Adam Kowalski335 4433 335@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Michał Maciejewski338 4419 338@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Michał Maciejewski338 4419 338@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka doktoranckie
-03/14/2020 15:50:32 Record duplicated >> Adrian Nowak341 4058 341@pjwstk.edu.pl 02/12/2000 Alina Adam Wieczorowe Informatyka wieczorowe
-03/14/2020 15:50:32 Record duplicated >> Michał Brzęczyszczykiewicz342 4524 342@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Jagoda Maciejewski348 4532 348@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Tomasz Jankowski349 4480 349@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Michał Nowak351 4523 351@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Bartosz Brzęczyszczykiewicz352 4766 352@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
-03/14/2020 15:50:32 Record duplicated >> Yuriy Nowak356 4422 356@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Michał Brzęczyszczykiewicz357 4660 357@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Mikołaj Kowalski360 3081 360@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka jednolite magisterskie
-03/14/2020 15:50:32 Record duplicated >> Mikołaj Kowalski360 3081 360@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka jednolite magisterskie po angielsku
-03/14/2020 15:50:32 Record duplicated >> Anna Brzęczyszczykiewicz362 4385 362@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
-03/14/2020 15:50:32 Record duplicated >> Michał Jankowski364 4522 364@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
-03/14/2020 15:50:32 Record duplicated >> Karol Nowak366 4518 366@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Adrian Brzęczyszczykiewicz367 4384 367@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Adrian Brzęczyszczykiewicz367 4384 367@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
-03/14/2020 15:50:32 Record duplicated >> Łukasz Maciejewski368 4496 368@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka Społeczna
-03/14/2020 15:50:32 Record duplicated >> Adam Jankowski369 4750 369@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Adam Jankowski369 4750 369@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
-03/14/2020 15:50:32 Record duplicated >> Michał Brzęczyszczykiewicz372 4483 372@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Tomasz Maciejewski373 4751 373@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Tomasz Maciejewski373 4751 373@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne MBA dla branży IT
-03/14/2020 15:50:32 Record duplicated >> Radosław Jankowski374 4528 374@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
-03/14/2020 15:50:32 Record duplicated >> Przemysław Nowak376 4814 376@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
-03/14/2020 15:50:32 Record duplicated >> Rafał Nowak381 4616 381@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Paweł Nowak1 459 1@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 4 sem
+03/14/2020 16:31:36 Record duplicated >> Paweł Nowak1 459 1@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka doktoranckie
+03/14/2020 16:31:36 Record duplicated >> Justyna Kowalski30 4749 30@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Michał Nowak31 4432 31@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Invalid data format >> Zbigniew,Kowalski35,Sztuka Nowych Mediów dzienne,,4450,2000-02-12,35@pjwstk.edu.pl,Alina,Adam
+03/14/2020 16:31:36 Invalid data format >> Karolina,Nowak36,Sztuka Nowych Mediów dzienne,,4455,2000-02-12,36@pjwstk.edu.pl,Alina,Adam
+03/14/2020 16:31:36 Record duplicated >> Joanna Brzęczyszczykiewicz37 4799 37@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Irena Maciejewski38 4626 38@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne
+03/14/2020 16:31:36 Record duplicated >> Kacper Kowalski40 4396 40@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Paweł Nowak41 4902 41@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne
+03/14/2020 16:31:36 Invalid data format >> Aleksandra,,Sztuka Nowych Mediów dzienne,Dzienne,4434,2000-02-12,42@pjwstk.edu.pl,Alina,Adam
+03/14/2020 16:31:36 Record duplicated >> Aleksandra Brzęczyszczykiewicz42 4434 42@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne 6 sem.
+03/14/2020 16:31:36 Record duplicated >> Jan Nowak46 4842 46@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne 6 sem.
+03/14/2020 16:31:36 Record duplicated >> Jakub Jankowski49 4789 49@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne
+03/14/2020 16:31:36 Record duplicated >> Sabina Brzęczyszczykiewicz52 4513 52@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Jan Nowak56 4649 56@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Jakub Brzęczyszczykiewicz57 4755 57@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Karolina Jankowski64 4423 64@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Magdalena Nowak66 4629 66@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Paweł Jankowski69 4478 69@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Kamil Nowak71 4741 71@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Sandra Brzęczyszczykiewicz77 4800 77@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Małgorzata Maciejewski78 4429 78@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Klaudia Jankowski84 4849 84@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów uzupełniające magisterskie
+03/14/2020 16:31:36 Record duplicated >> Tomasz Kowalski95 3374 95@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Sztuka Nowych Mediów dzienne
+03/14/2020 16:31:36 Invalid data format >> Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
+03/14/2020 16:31:36 Invalid data format >> Jolanta,Nowak96,Sztuka Nowych Mediów uzupełniające magisterskie,Dzienne,4756,2000-02-12,96@pjwstk.edu.pl,,
+03/14/2020 16:31:36 Record duplicated >> Paweł Brzęczyszczykiewicz252 4412 252@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Kamil Jankowski254 4836 254@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Michał Brzęczyszczykiewicz257 4454 257@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Patryk Maciejewski258 4443 258@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
+03/14/2020 16:31:36 Record duplicated >> Michał Kowalski260 4579 260@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Zuzanna Jankowski264 4413 264@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
+03/14/2020 16:31:36 Record duplicated >> Wojciech Nowak266 4554 266@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Jakub Kowalski270 4711 270@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
+03/14/2020 16:31:36 Record duplicated >> Jakub Kowalski270 4711 270@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Aleksandra Brzęczyszczykiewicz272 4549 272@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
+03/14/2020 16:31:36 Record duplicated >> Aleksandra Brzęczyszczykiewicz272 4549 272@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Piotr Maciejewski273 4618 273@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Adrian Jankowski274 4530 274@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Andrzej Kowalski275 4607 275@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Wojciech Nowak276 4459 276@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Agata Nowak281 4589 281@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Agata Nowak281 4589 281@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
+03/14/2020 16:31:36 Record duplicated >> Piotr Maciejewski283 4556 283@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka magisterskie uzupełniające zaoczne
+03/14/2020 16:31:36 Record duplicated >> Grzegorz Jankowski284 4504 284@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Sebastian Kowalski285 4505 285@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Filip Nowak286 4105 286@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Filip Nowak286 4105 286@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka jednolite magisterskie
+03/14/2020 16:31:36 Record duplicated >> Artur Maciejewski288 4498 288@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Piotr Jankowski289 4471 289@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Piotr Jankowski289 4471 289@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
+03/14/2020 16:31:36 Record duplicated >> Tomasz Jankowski294 4724 294@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Michał Nowak296 4769 296@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Jakub Maciejewski298 4733 298@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
+03/14/2020 16:31:36 Record duplicated >> Kasper Jankowski299 4584 299@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Krzysztof Kowalski300 4514 300@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka magisterskie uzupełniające zaoczne
+03/14/2020 16:31:36 Record duplicated >> Katarzyna Maciejewski303 4935 303@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Piotr Kowalski305 4456 305@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Jan Nowak306 4107 306@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
+03/14/2020 16:31:36 Record duplicated >> Jan Nowak306 4107 306@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka jednolite magisterskie
+03/14/2020 16:31:36 Record duplicated >> Jan Nowak306 4107 306@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka jednolite magisterskie po angielsku
+03/14/2020 16:31:36 Record duplicated >> Kacper Maciejewski308 4817 308@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Lech Kowalski310 4387 310@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
+03/14/2020 16:31:36 Record duplicated >> Błażej Nowak311 4509 311@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka magisterskie uzupełniające zaoczne
+03/14/2020 16:31:36 Record duplicated >> Paweł Maciejewski313 4481 313@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Wojciech Jankowski314 4512 314@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Maciej Kowalski315 4782 315@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka Społeczna
+03/14/2020 16:31:36 Record duplicated >> Michał Kowalski320 4627 320@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
+03/14/2020 16:31:36 Record duplicated >> Krzysztof Nowak321 4830 321@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Mariusz Maciejewski323 4447 323@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Bartosz Jankowski324 4580 324@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Piotr Kowalski325 4284 325@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Sztuka Nowych Mediów zaoczne
+03/14/2020 16:31:36 Record duplicated >> Michał Nowak326 4440 326@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Paweł Jankowski329 4796 329@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Nakul Brzęczyszczykiewicz332 4942 332@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Tomoto Maciejewski333 4614 333@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Adam Kowalski335 4433 335@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Michał Maciejewski338 4419 338@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Michał Maciejewski338 4419 338@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka doktoranckie
+03/14/2020 16:31:36 Record duplicated >> Adrian Nowak341 4058 341@pjwstk.edu.pl 02/12/2000 Alina Adam Wieczorowe Informatyka wieczorowe
+03/14/2020 16:31:36 Record duplicated >> Michał Brzęczyszczykiewicz342 4524 342@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Jagoda Maciejewski348 4532 348@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Tomasz Jankowski349 4480 349@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Michał Nowak351 4523 351@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Bartosz Brzęczyszczykiewicz352 4766 352@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
+03/14/2020 16:31:36 Record duplicated >> Yuriy Nowak356 4422 356@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Michał Brzęczyszczykiewicz357 4660 357@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Mikołaj Kowalski360 3081 360@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka jednolite magisterskie
+03/14/2020 16:31:36 Record duplicated >> Mikołaj Kowalski360 3081 360@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka jednolite magisterskie po angielsku
+03/14/2020 16:31:36 Record duplicated >> Anna Brzęczyszczykiewicz362 4385 362@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
+03/14/2020 16:31:36 Record duplicated >> Michał Jankowski364 4522 364@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka dzienne po angielsku
+03/14/2020 16:31:36 Record duplicated >> Karol Nowak366 4518 366@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Adrian Brzęczyszczykiewicz367 4384 367@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Adrian Brzęczyszczykiewicz367 4384 367@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
+03/14/2020 16:31:36 Record duplicated >> Łukasz Maciejewski368 4496 368@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka Społeczna
+03/14/2020 16:31:36 Record duplicated >> Adam Jankowski369 4750 369@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Adam Jankowski369 4750 369@pjwstk.edu.pl 02/12/2000 Alina Adam Internetowe Informatyka internetowe
+03/14/2020 16:31:36 Record duplicated >> Michał Brzęczyszczykiewicz372 4483 372@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Tomasz Maciejewski373 4751 373@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Tomasz Maciejewski373 4751 373@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne MBA dla branży IT
+03/14/2020 16:31:36 Record duplicated >> Radosław Jankowski374 4528 374@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem
+03/14/2020 16:31:36 Record duplicated >> Przemysław Nowak376 4814 376@pjwstk.edu.pl 02/12/2000 Alina Adam Zaoczne Informatyka zaoczne
+03/14/2020 16:31:36 Record duplicated >> Rafał Nowak381 4616 381@pjwstk.edu.pl 02/12/2000 Alina Adam Dzienne Informatyka magisterskie 3 sem

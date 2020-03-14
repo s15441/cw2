@@ -21,6 +21,8 @@ namespace Cw2
             this.Department = department;
             this.Mode = mode;
         }
+        
+
 
         public override string ToString()
         {
